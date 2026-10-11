@@ -1,0 +1,8 @@
+{
+  "name": "AI Text Sentiment Analyzer",
+  "description": "Cloud-powered sentiment and emotion analysis engine that instantly classifies text as Positive, Negative, or Neutral with detailed polarity metrics, emotional nuances, and phrase insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
